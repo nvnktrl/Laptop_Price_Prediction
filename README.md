@@ -7,3 +7,5 @@ laptops based on parameters by user input.
 App on Heroku cloud.
 
 • **Technologies used**: Python, Sklearn, Streamlit
+
+## Web App Link - https://lpp-ml.herokuapp.com/
