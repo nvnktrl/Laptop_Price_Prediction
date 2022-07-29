@@ -1,4 +1,4 @@
-# laptop_price_prediction
+# Laptop_price_prediction
 
 • Developed and designed an end-to-end web app that can make predictions of prices of various
 laptops based on parameters by user input.
